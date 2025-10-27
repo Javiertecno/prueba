@@ -13,7 +13,7 @@
     <form action="/submit" method="post">
         <!-- Campo de texto -->
         <label for="nombre">NOMBRE:</label>
-        <input type="text" id="nombre" name="nombre" placeholder="Ingresa tu apellidos"><br><br>
+        <input type="text" id="nombre" name="nombre" placeholder="Ingresa tu nombre y dos apellidos"><br><br>
 
         <!-- Campo de correo electrónico -->
         <label for="email">Correo Electrónico:</label>
